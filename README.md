@@ -22,7 +22,7 @@ FocusTimer is designed for individuals who work on their Macs and want to enhanc
 
 ## Overview
 
-In today's digital age, maintaining focus can be challenging. FocusTimer is a native macOS application built with Swift and AppKit that provides a simple yet effective way to manage your work sessions. It combines a Pomodoro timer with active application tracking to give you insights into how you spend your time during focus blocks.
+FocusTimer is a native macOS application built with Swift and AppKit that provides a simple yet effective way to manage your work sessions. It combines a Pomodoro timer with active application tracking to give you insights into how you spend your time during focus blocks.
 
 The core idea is to help you break down work into manageable intervals, separated by short breaks, encouraging concentration and preventing burnout.
 
@@ -38,15 +38,7 @@ The core idea is to help you break down work into manageable intervals, separate
 
 ## 📸 Screenshots
 
-*(This is a crucial section. Add 2-3 screenshots or a GIF showcasing the app's main interface, timer in action, and perhaps an example of app usage data if you plan to display it.)*
-
-*Main Application Window:*
-`![Main App Window](docs/images/screenshot-main.png)`
-
-*Timer Active:*
-`![Timer Active](docs/images/screenshot-timer.png)`
-
-*(Create a `docs/images/` folder in your repository for these)*
+Coming soon
 
 ## 🖥️ Requirements
 
@@ -158,9 +150,3 @@ Please ensure your code adheres to the existing style and includes tests if appl
 
 This project is licensed under the [MIT License](LICENSE.md).
 *(Create a `LICENSE.md` file in your repository with the text of the MIT License or your chosen license.)*
-
----
-
-*Replace `FocusTimer`, `your_username`, `your_repository_name`, and bracketed placeholders `[...]` with your actual project details.*
-*Make sure to create the `docs/images/` folder and add your screenshots.*
-*Create a `LICENSE.md` file if you choose a license like MIT.*
