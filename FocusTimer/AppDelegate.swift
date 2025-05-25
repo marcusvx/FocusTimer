@@ -6,15 +6,18 @@
 //
 
 import Cocoa
+import UserNotifications
 
 @main
 class AppDelegate: NSObject, NSApplicationDelegate {
-
-    
-
-
     func applicationDidFinishLaunching(_ aNotification: Notification) {
-        // Insert code here to initialize your application
+        UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound]) { granted, error in
+                if granted {
+                    print("Notification permission granted.")
+                } else if let error = error {
+                    print("Notification permission error: \(error.localizedDescription)")
+                }
+            }
     }
 
     func applicationWillTerminate(_ aNotification: Notification) {
@@ -24,7 +27,4 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationSupportsSecureRestorableState(_ app: NSApplication) -> Bool {
         return true
     }
-
-
 }
-
