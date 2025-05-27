@@ -42,14 +42,13 @@ Coming soon
 
 ## 🖥️ Requirements
 
-* macOS [Specify minimum version, e.g., macOS 12.0 Monterey] or later.
-* [Any other dependencies, though likely none for a self-contained native app]
+* macOS 10.15 (Catalina) or later.
 
 ## 🚀 Installation
 
 ### For Users (Release Version)
 
-1.  Go to the [Releases page](https://github.com/your_username/your_repository_name/releases) of this repository.
+1.  Go to the [Releases page](https://github.com/marcusvx/FocusTimer/releases) of this repository.
 2.  Download the latest `FocusTimer.dmg` or `FocusTimer.app.zip` file.
 3.  If you downloaded a `.dmg`, open it and drag `FocusTimer.app` to your Applications folder.
 4.  If you downloaded a `.zip`, unzip it and move `FocusTimer.app` to your Applications folder.
@@ -102,19 +101,18 @@ The source code is organized into logical groups:
 * `DataManagement/`: `DataManager.swift` for handling local JSON data storage.
 * `PomodoroEngine/`: Core logic for the Pomodoro timer states and transitions.
 * `AppTracking/`: `AppActivityMonitor.swift` for tracking active applications.
-* `UI/`: Storyboards/XIBs, ViewControllers, and any custom views.
 * `Utilities/`: Helper functions and extensions.
 
 ### Building from Source
 
 1.  **Prerequisites**:
-    * macOS [Specify macOS version used for development, e.g., macOS Sonoma 14.x]
-    * Xcode [Specify Xcode version, e.g., Xcode 15.x]
-    * Swift [Specify Swift version, e.g., Swift 5.9 or later]
+    * macOS 10.15 (Catalina)
+    * Xcode 11 or later
+    * Swift 5.1 or later
 2.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
-    cd your_repository_name
+    git clone [https://github.com/marcusvx/FocusTimer.git](https://github.com/marcusvx/FocusTimer.git)
+    cd FocusTimer
     ```
 3.  **Open in Xcode**:
     Open the `FocusTimer.xcodeproj` file in Xcode.
@@ -149,4 +147,3 @@ Please ensure your code adheres to the existing style and includes tests if appl
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE.md).
-*(Create a `LICENSE.md` file in your repository with the text of the MIT License or your chosen license.)*
