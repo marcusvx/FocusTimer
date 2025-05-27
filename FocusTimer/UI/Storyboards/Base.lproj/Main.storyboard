@@ -719,8 +719,8 @@
                                     </connections>
                                 </buttonCell>
                             </button>
-                            <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="rWZ-C9-taV">
-                                <rect key="frame" x="208" y="234" width="64" height="16"/>
+                            <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rWZ-C9-taV">
+                                <rect key="frame" x="18" y="234" width="444" height="16"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" title="timeLabel" id="0SU-3t-UuC">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
@@ -728,7 +728,7 @@
                                 </textFieldCell>
                             </textField>
                             <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="BVY-20-B6e">
-                                <rect key="frame" x="203" y="200" width="75" height="16"/>
+                                <rect key="frame" x="18" y="200" width="444" height="16"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" title="statusLabel" id="9Zv-FB-dHg">
                                     <font key="font" metaFont="system"/>

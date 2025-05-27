@@ -15,7 +15,7 @@ class PomodoroEngine {
 
     private(set) var currentState: PomodoroState = .idle {
         didSet { delegate?.pomodoroStateDidChange(to: currentState) }
-    }
+    }   
     private(set) var completedPomodoros = 0
     private var timer: Timer?
     private var targetTime: Date?
