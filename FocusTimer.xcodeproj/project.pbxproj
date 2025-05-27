@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		2CF376FE2DE107ED0051ED6F /* PBXContainerItemProxy */ = {
+		2C88C0B12DE5D5F3009FA2A5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2CF376E42DE107EB0051ED6F /* Project object */;
+			containerPortal = 2C88C09A2DE5D5F2009FA2A5 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2CF376EB2DE107EB0051ED6F;
+			remoteGlobalIDString = 2C88C0A12DE5D5F2009FA2A5;
 			remoteInfo = FocusTimer;
 		};
-		2CF377082DE107ED0051ED6F /* PBXContainerItemProxy */ = {
+		2C88C0BB2DE5D5F3009FA2A5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2CF376E42DE107EB0051ED6F /* Project object */;
+			containerPortal = 2C88C09A2DE5D5F2009FA2A5 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2CF376EB2DE107EB0051ED6F;
+			remoteGlobalIDString = 2C88C0A12DE5D5F2009FA2A5;
 			remoteInfo = FocusTimer;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2CF376EC2DE107EB0051ED6F /* FocusTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FocusTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CF376FD2DE107ED0051ED6F /* FocusTimerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FocusTimerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CF377072DE107ED0051ED6F /* FocusTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FocusTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C88C0A22DE5D5F2009FA2A5 /* FocusTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FocusTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C88C0B02DE5D5F3009FA2A5 /* FocusTimerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FocusTimerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C88C0BA2DE5D5F3009FA2A5 /* FocusTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FocusTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2CF376EE2DE107EB0051ED6F /* FocusTimer */ = {
+		2C88C0A42DE5D5F2009FA2A5 /* FocusTimer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = FocusTimer;
 			sourceTree = "<group>";
 		};
-		2CF377002DE107ED0051ED6F /* FocusTimerTests */ = {
+		2C88C0B32DE5D5F3009FA2A5 /* FocusTimerTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = FocusTimerTests;
 			sourceTree = "<group>";
 		};
-		2CF3770A2DE107ED0051ED6F /* FocusTimerUITests */ = {
+		2C88C0BD2DE5D5F3009FA2A5 /* FocusTimerUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = FocusTimerUITests;
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2CF376E92DE107EB0051ED6F /* Frameworks */ = {
+		2C88C09F2DE5D5F2009FA2A5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF376FA2DE107ED0051ED6F /* Frameworks */ = {
+		2C88C0AD2DE5D5F3009FA2A5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF377042DE107ED0051ED6F /* Frameworks */ = {
+		2C88C0B72DE5D5F3009FA2A5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2CF376E32DE107EB0051ED6F = {
+		2C88C0992DE5D5F2009FA2A5 = {
 			isa = PBXGroup;
 			children = (
-				2CF376EE2DE107EB0051ED6F /* FocusTimer */,
-				2CF377002DE107ED0051ED6F /* FocusTimerTests */,
-				2CF3770A2DE107ED0051ED6F /* FocusTimerUITests */,
-				2CF376ED2DE107EB0051ED6F /* Products */,
+				2C88C0A42DE5D5F2009FA2A5 /* FocusTimer */,
+				2C88C0B32DE5D5F3009FA2A5 /* FocusTimerTests */,
+				2C88C0BD2DE5D5F3009FA2A5 /* FocusTimerUITests */,
+				2C88C0A32DE5D5F2009FA2A5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2CF376ED2DE107EB0051ED6F /* Products */ = {
+		2C88C0A32DE5D5F2009FA2A5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2CF376EC2DE107EB0051ED6F /* FocusTimer.app */,
-				2CF376FD2DE107ED0051ED6F /* FocusTimerTests.xctest */,
-				2CF377072DE107ED0051ED6F /* FocusTimerUITests.xctest */,
+				2C88C0A22DE5D5F2009FA2A5 /* FocusTimer.app */,
+				2C88C0B02DE5D5F3009FA2A5 /* FocusTimerTests.xctest */,
+				2C88C0BA2DE5D5F3009FA2A5 /* FocusTimerUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2CF376EB2DE107EB0051ED6F /* FocusTimer */ = {
+		2C88C0A12DE5D5F2009FA2A5 /* FocusTimer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CF377112DE107ED0051ED6F /* Build configuration list for PBXNativeTarget "FocusTimer" */;
+			buildConfigurationList = 2C88C0C42DE5D5F3009FA2A5 /* Build configuration list for PBXNativeTarget "FocusTimer" */;
 			buildPhases = (
-				2CF376E82DE107EB0051ED6F /* Sources */,
-				2CF376E92DE107EB0051ED6F /* Frameworks */,
-				2CF376EA2DE107EB0051ED6F /* Resources */,
+				2C88C09E2DE5D5F2009FA2A5 /* Sources */,
+				2C88C09F2DE5D5F2009FA2A5 /* Frameworks */,
+				2C88C0A02DE5D5F2009FA2A5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2CF376EE2DE107EB0051ED6F /* FocusTimer */,
+				2C88C0A42DE5D5F2009FA2A5 /* FocusTimer */,
 			);
 			name = FocusTimer;
 			packageProductDependencies = (
 			);
 			productName = FocusTimer;
-			productReference = 2CF376EC2DE107EB0051ED6F /* FocusTimer.app */;
+			productReference = 2C88C0A22DE5D5F2009FA2A5 /* FocusTimer.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2CF376FC2DE107ED0051ED6F /* FocusTimerTests */ = {
+		2C88C0AF2DE5D5F3009FA2A5 /* FocusTimerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CF377142DE107ED0051ED6F /* Build configuration list for PBXNativeTarget "FocusTimerTests" */;
+			buildConfigurationList = 2C88C0C72DE5D5F3009FA2A5 /* Build configuration list for PBXNativeTarget "FocusTimerTests" */;
 			buildPhases = (
-				2CF376F92DE107ED0051ED6F /* Sources */,
-				2CF376FA2DE107ED0051ED6F /* Frameworks */,
-				2CF376FB2DE107ED0051ED6F /* Resources */,
+				2C88C0AC2DE5D5F3009FA2A5 /* Sources */,
+				2C88C0AD2DE5D5F3009FA2A5 /* Frameworks */,
+				2C88C0AE2DE5D5F3009FA2A5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2CF376FF2DE107ED0051ED6F /* PBXTargetDependency */,
+				2C88C0B22DE5D5F3009FA2A5 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				2CF377002DE107ED0051ED6F /* FocusTimerTests */,
+				2C88C0B32DE5D5F3009FA2A5 /* FocusTimerTests */,
 			);
 			name = FocusTimerTests;
 			packageProductDependencies = (
 			);
 			productName = FocusTimerTests;
-			productReference = 2CF376FD2DE107ED0051ED6F /* FocusTimerTests.xctest */;
+			productReference = 2C88C0B02DE5D5F3009FA2A5 /* FocusTimerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		2CF377062DE107ED0051ED6F /* FocusTimerUITests */ = {
+		2C88C0B92DE5D5F3009FA2A5 /* FocusTimerUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CF377172DE107ED0051ED6F /* Build configuration list for PBXNativeTarget "FocusTimerUITests" */;
+			buildConfigurationList = 2C88C0CA2DE5D5F3009FA2A5 /* Build configuration list for PBXNativeTarget "FocusTimerUITests" */;
 			buildPhases = (
-				2CF377032DE107ED0051ED6F /* Sources */,
-				2CF377042DE107ED0051ED6F /* Frameworks */,
-				2CF377052DE107ED0051ED6F /* Resources */,
+				2C88C0B62DE5D5F3009FA2A5 /* Sources */,
+				2C88C0B72DE5D5F3009FA2A5 /* Frameworks */,
+				2C88C0B82DE5D5F3009FA2A5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2CF377092DE107ED0051ED6F /* PBXTargetDependency */,
+				2C88C0BC2DE5D5F3009FA2A5 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				2CF3770A2DE107ED0051ED6F /* FocusTimerUITests */,
+				2C88C0BD2DE5D5F3009FA2A5 /* FocusTimerUITests */,
 			);
 			name = FocusTimerUITests;
 			packageProductDependencies = (
 			);
 			productName = FocusTimerUITests;
-			productReference = 2CF377072DE107ED0051ED6F /* FocusTimerUITests.xctest */;
+			productReference = 2C88C0BA2DE5D5F3009FA2A5 /* FocusTimerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2CF376E42DE107EB0051ED6F /* Project object */ = {
+		2C88C09A2DE5D5F2009FA2A5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					2CF376EB2DE107EB0051ED6F = {
+					2C88C0A12DE5D5F2009FA2A5 = {
 						CreatedOnToolsVersion = 16.3;
 					};
-					2CF376FC2DE107ED0051ED6F = {
+					2C88C0AF2DE5D5F3009FA2A5 = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = 2CF376EB2DE107EB0051ED6F;
+						TestTargetID = 2C88C0A12DE5D5F2009FA2A5;
 					};
-					2CF377062DE107ED0051ED6F = {
+					2C88C0B92DE5D5F3009FA2A5 = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = 2CF376EB2DE107EB0051ED6F;
+						TestTargetID = 2C88C0A12DE5D5F2009FA2A5;
 					};
 				};
 			};
-			buildConfigurationList = 2CF376E72DE107EB0051ED6F /* Build configuration list for PBXProject "FocusTimer" */;
+			buildConfigurationList = 2C88C09D2DE5D5F2009FA2A5 /* Build configuration list for PBXProject "FocusTimer" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 2CF376E32DE107EB0051ED6F;
+			mainGroup = 2C88C0992DE5D5F2009FA2A5;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 2CF376ED2DE107EB0051ED6F /* Products */;
+			productRefGroup = 2C88C0A32DE5D5F2009FA2A5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2CF376EB2DE107EB0051ED6F /* FocusTimer */,
-				2CF376FC2DE107ED0051ED6F /* FocusTimerTests */,
-				2CF377062DE107ED0051ED6F /* FocusTimerUITests */,
+				2C88C0A12DE5D5F2009FA2A5 /* FocusTimer */,
+				2C88C0AF2DE5D5F3009FA2A5 /* FocusTimerTests */,
+				2C88C0B92DE5D5F3009FA2A5 /* FocusTimerUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2CF376EA2DE107EB0051ED6F /* Resources */ = {
+		2C88C0A02DE5D5F2009FA2A5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF376FB2DE107ED0051ED6F /* Resources */ = {
+		2C88C0AE2DE5D5F3009FA2A5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF377052DE107ED0051ED6F /* Resources */ = {
+		2C88C0B82DE5D5F3009FA2A5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2CF376E82DE107EB0051ED6F /* Sources */ = {
+		2C88C09E2DE5D5F2009FA2A5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF376F92DE107ED0051ED6F /* Sources */ = {
+		2C88C0AC2DE5D5F3009FA2A5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF377032DE107ED0051ED6F /* Sources */ = {
+		2C88C0B62DE5D5F3009FA2A5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2CF376FF2DE107ED0051ED6F /* PBXTargetDependency */ = {
+		2C88C0B22DE5D5F3009FA2A5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2CF376EB2DE107EB0051ED6F /* FocusTimer */;
-			targetProxy = 2CF376FE2DE107ED0051ED6F /* PBXContainerItemProxy */;
+			target = 2C88C0A12DE5D5F2009FA2A5 /* FocusTimer */;
+			targetProxy = 2C88C0B12DE5D5F3009FA2A5 /* PBXContainerItemProxy */;
 		};
-		2CF377092DE107ED0051ED6F /* PBXTargetDependency */ = {
+		2C88C0BC2DE5D5F3009FA2A5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2CF376EB2DE107EB0051ED6F /* FocusTimer */;
-			targetProxy = 2CF377082DE107ED0051ED6F /* PBXContainerItemProxy */;
+			target = 2C88C0A12DE5D5F2009FA2A5 /* FocusTimer */;
+			targetProxy = 2C88C0BB2DE5D5F3009FA2A5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		2CF3770F2DE107ED0051ED6F /* Debug */ = {
+		2C88C0C22DE5D5F3009FA2A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -333,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		2CF377102DE107ED0051ED6F /* Release */ = {
+		2C88C0C32DE5D5F3009FA2A5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -389,21 +389,20 @@
 			};
 			name = Release;
 		};
-		2CF377122DE107ED0051ED6F /* Debug */ = {
+		2C88C0C52DE5D5F3009FA2A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = FocusTimer/App/FocusTimer.entitlements;
+				CODE_SIGN_ENTITLEMENTS = FocusTimer/FocusTimer.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = DK43Z473LM;
 				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSMainStoryboardFile = Main;
-				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -417,21 +416,20 @@
 			};
 			name = Debug;
 		};
-		2CF377132DE107ED0051ED6F /* Release */ = {
+		2C88C0C62DE5D5F3009FA2A5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = FocusTimer/App/FocusTimer.entitlements;
+				CODE_SIGN_ENTITLEMENTS = FocusTimer/FocusTimer.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = DK43Z473LM;
 				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSMainStoryboardFile = Main;
-				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -445,7 +443,7 @@
 			};
 			name = Release;
 		};
-		2CF377152DE107ED0051ED6F /* Debug */ = {
+		2C88C0C82DE5D5F3009FA2A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -463,7 +461,7 @@
 			};
 			name = Debug;
 		};
-		2CF377162DE107ED0051ED6F /* Release */ = {
+		2C88C0C92DE5D5F3009FA2A5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -481,7 +479,7 @@
 			};
 			name = Release;
 		};
-		2CF377182DE107ED0051ED6F /* Debug */ = {
+		2C88C0CB2DE5D5F3009FA2A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -497,7 +495,7 @@
 			};
 			name = Debug;
 		};
-		2CF377192DE107ED0051ED6F /* Release */ = {
+		2C88C0CC2DE5D5F3009FA2A5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -516,43 +514,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2CF376E72DE107EB0051ED6F /* Build configuration list for PBXProject "FocusTimer" */ = {
+		2C88C09D2DE5D5F2009FA2A5 /* Build configuration list for PBXProject "FocusTimer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CF3770F2DE107ED0051ED6F /* Debug */,
-				2CF377102DE107ED0051ED6F /* Release */,
+				2C88C0C22DE5D5F3009FA2A5 /* Debug */,
+				2C88C0C32DE5D5F3009FA2A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CF377112DE107ED0051ED6F /* Build configuration list for PBXNativeTarget "FocusTimer" */ = {
+		2C88C0C42DE5D5F3009FA2A5 /* Build configuration list for PBXNativeTarget "FocusTimer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CF377122DE107ED0051ED6F /* Debug */,
-				2CF377132DE107ED0051ED6F /* Release */,
+				2C88C0C52DE5D5F3009FA2A5 /* Debug */,
+				2C88C0C62DE5D5F3009FA2A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CF377142DE107ED0051ED6F /* Build configuration list for PBXNativeTarget "FocusTimerTests" */ = {
+		2C88C0C72DE5D5F3009FA2A5 /* Build configuration list for PBXNativeTarget "FocusTimerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CF377152DE107ED0051ED6F /* Debug */,
-				2CF377162DE107ED0051ED6F /* Release */,
+				2C88C0C82DE5D5F3009FA2A5 /* Debug */,
+				2C88C0C92DE5D5F3009FA2A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CF377172DE107ED0051ED6F /* Build configuration list for PBXNativeTarget "FocusTimerUITests" */ = {
+		2C88C0CA2DE5D5F3009FA2A5 /* Build configuration list for PBXNativeTarget "FocusTimerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CF377182DE107ED0051ED6F /* Debug */,
-				2CF377192DE107ED0051ED6F /* Release */,
+				2C88C0CB2DE5D5F3009FA2A5 /* Debug */,
+				2C88C0CC2DE5D5F3009FA2A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2CF376E42DE107EB0051ED6F /* Project object */;
+	rootObject = 2C88C09A2DE5D5F2009FA2A5 /* Project object */;
 }

@@ -1,8 +1,7 @@
 import Foundation
 
-protocol PomodoroEngineDelegate: AnyObject {
+protocol PomodoroEngineDelegate {
     func pomodoroStateDidChange(to state: PomodoroState)
-    func pomodoroTimerDidUpdate(timeRemaining: TimeInterval)
     func pomodoroDidCompleteCycle()
     func pomodoroWorkIntervalDidStart()
     func pomodoroWorkIntervalDidEnd()
