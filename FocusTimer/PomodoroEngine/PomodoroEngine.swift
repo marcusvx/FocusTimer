@@ -9,9 +9,7 @@ enum PomodoroState {
 class PomodoroEngine: ObservableObject {
     var delegate: PomodoroEngineDelegate?
 
-    @Published var currentState: PomodoroState = .idle {
-        didSet { delegate?.pomodoroStateDidChange(to: currentState) }
-    }
+    @Published var currentState: PomodoroState = .idle
     @Published var timeRemaining: TimeInterval = 0
     @Published var timeRemainingFormatted: String = "00:00"
     @Published var completedPomodoros: Int = 0

@@ -172,8 +172,6 @@ class DataManager {
         }
     }
 
-    /// Returns the URL to the directory where cycle files are stored.
-    /// Useful if other parts of your app (e.g., syncing logic) need to access these files directly.
     public func getCyclesStorageURL() -> URL {
         return cyclesDirectoryURL
     }
@@ -200,7 +198,7 @@ class DataManager {
             print(
                 "DataManager: Preferences file not found. Returning default settings."
             )
-            return UserSettings()  // Return default settings if file doesn't exist
+            return UserSettings()
         }
 
         let decoder = JSONDecoder()
@@ -212,7 +210,7 @@ class DataManager {
             print(
                 "DataManager: Error loading user settings: \(error). Returning default settings."
             )
-            return UserSettings()  // Return default on error
+            return UserSettings()
         }
     }
 }
